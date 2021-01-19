@@ -1,5 +1,5 @@
 # hello-world
 我的第一个数据库
-首先，今天是2021年1月20日，我通过csdn进行了新的探索，我发现了这个好用的网站，
-我很谢谢这些功能网站。
-我的目标是成为一名资深的系统开发者，愿我的梦想能成为现实！！！谢谢。
+First of all, today is January 20, 2021. I made a new exploration through CSDN. I found this easy-to-use website,
+Thank you very much for these feature sites.
+My goal is to become a senior system developer, wish my dream can become a reality!!! thank you！
